@@ -4,9 +4,9 @@
 databases.
 
 This repository is used to make SphinxSearch API PHP Client available through 
-[composer](http://getcomposer.org/).
+[composer](https://packagist.org/packages/manticorp/sphinxsearch-api).
 
-Updated for PHP7
+Updated for PHP7.
 
 # License
 

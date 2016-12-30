@@ -1,6 +1,6 @@
 {
     "name": "manticorp/sphinxsearch-api",
-    "description": "SphinxSearch PHP API",
+    "description": "SphinxSearch PHP API updated slightly for PHP7",
     "require": {
         "php": ">=4"
     },

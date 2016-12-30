@@ -6,6 +6,8 @@ databases.
 This repository is used to make SphinxSearch API PHP Client available through 
 [composer](http://getcomposer.org/).
 
+Updated for PHP7
+
 # License
 
 This is licensed under the GNU General Public License
